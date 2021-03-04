@@ -1,2 +1,2 @@
 # OutOfBoxSolutions
-Impossibly simple solutions to complex coding problems.
+Out-of-the-box simple solutions to complex coding problems.
